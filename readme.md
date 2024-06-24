@@ -8,6 +8,11 @@
 - 點擊餐廳卡片查看餐廳詳細資訊（類別、地址、電話、描述、圖片）
 - 透過餐廳名稱或分類搜尋餐廳
 
+## 圖片
+
+![index](images/index.png)
+![detail](images/detail.png)
+
 ## 安裝與執行
 
 1. 安裝 Node.js 和 npm
