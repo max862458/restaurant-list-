@@ -24,8 +24,9 @@ npm -v
 
 2. Clone 此專案
 
-git clone https://github.com/your-username/restaurant-list.git
-cd restaurant-list
+git clone https://github.com/max862458/restaurant_list.git
+
+cd restaurant_list
 
 3. 安裝 npm
 

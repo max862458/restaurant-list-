@@ -8,7 +8,7 @@ const port = 3000
 const restaurantList = require('./public/json/restaurants.json').results
 
 // 設定樣板引擎
-app.engine('hbs', exphbs.engine({ extname: '.hbs' }))
+app.engine('hbs', exphbs({ extname: '.hbs' }))
 app.set('view engine', 'hbs')
 
 // 設定靜態檔案
